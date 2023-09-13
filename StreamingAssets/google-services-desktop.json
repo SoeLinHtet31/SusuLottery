@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342701041807",
+    "project_id": "susulottery",
+    "storage_bucket": "susulottery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342701041807:android:09bd4d1d56f0571abb28fa",
+        "android_client_info": {
+          "package_name": "com.susulottery.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthMBuhCSp_q7bC6ly1cHmk894inSjUm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
